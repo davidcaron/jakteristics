@@ -14,6 +14,9 @@ The features used in this package are described in the paper
 `Contour detection in unstructured 3D point clouds`_.
 They are computed based on the eigenvalues and eigenvectors:
 
+
+
+
 * Eigenvalue sum
 * Omnivariance
 * Eigenentropy
